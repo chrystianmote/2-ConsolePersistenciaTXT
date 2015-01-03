@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vendas2/Venda.cs">
+    <Files>
+      <File FileName="Vendas2/Cliente.cs" Line="1" Column="1" />
+      <File FileName="Vendas2/ItemVenda.cs" Line="1" Column="1" />
+      <File FileName="Vendas2/Produto.cs" Line="22" Column="47" />
+      <File FileName="Vendas2/Program.cs" Line="24" Column="56" />
+      <File FileName="Vendas2/Venda.cs" Line="11" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
